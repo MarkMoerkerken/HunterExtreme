@@ -1,3 +1,5 @@
+# Hunter Extreme  
+
 In order to create and run hunter extreme you must navigate to the publish file.
 In the Publish file the is a setup icon.  Run that and allow for the downgram to install 
 Hunter extreme on your computer.
@@ -6,7 +8,7 @@ Once the game is installed you ran run it and play the game by simply hit the st
 There is a menu option on the game that will explian the objective of the 
 game.
 
-MIT License
+# MIT License
 
 Copyright (c) 2021 Mark Moerkerken
 
