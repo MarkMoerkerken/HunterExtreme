@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/markj/colllege year 2/game prog/MMFinalGameAssignement/FinalProjectShell/Content/pickup.wav</SourceFile>
+  <SourceTime>2019-12-04T13:32:41.6714755-05:00</SourceTime>
+  <DestFile>C:/Users/markj/colllege year 2/game prog/MMFinalGameAssignement/FinalProjectShell/Content/bin/Windows/Content/pickup.xnb</DestFile>
+  <DestTime>2019-12-08T16:43:10.1023742-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

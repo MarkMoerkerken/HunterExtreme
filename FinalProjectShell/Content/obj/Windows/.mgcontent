@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/back2.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Bear_Walk.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Boar_Walk.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/cartoon-throw.wav</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Deer_Walk.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Fox_Walk.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/game music.ogg</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/geb1.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/hilightFont.spritefont</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/hudFont.spritefont</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Images/helpImage.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/pickup.wav</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Rabbit_Hop.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/regularFont.spritefont</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/scoreFont.spritefont</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/thud.wav</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/trash.png</File>
+    <File>C:/Users/markj/colllege year 2/game prog/finalgame/MMFinalGameAssignement/FinalProjectShell/Content/Wolf_Walk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
